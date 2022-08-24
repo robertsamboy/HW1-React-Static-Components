@@ -1,0 +1,40 @@
+section{
+    background-color: #7e7e8f;
+    width: 300px;
+    height:300px
+}
+
+
+#app{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+#large{
+    display: flex;
+    width: 60%;
+    
+}
+#large div{
+    background-color: #54565c;
+    width: 80%;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+}
+#top{
+display: flex
+}
+
+aside{
+    width: 300px;
+    height: 900px;
+    background-color: #c0c3cf;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+}
