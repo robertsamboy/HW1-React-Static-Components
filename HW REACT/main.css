@@ -8,17 +8,21 @@ section{
 #app{
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-end;
+    justify-content: center;
+
 }
 
 #large{
     display: flex;
-    width: 60%;
+    width: 900px;
+    height: 600px;
+    
     
 }
 #large div{
     background-color: #54565c;
     width: 80%;
+    height: 80%
 }
 
 #container{

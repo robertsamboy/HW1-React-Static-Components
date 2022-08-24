@@ -42,8 +42,11 @@ class Sentiment extends React.Component {
 class Web extends React.Component {
     render(){
         return(
-          <section id ="large">Website Visitors 
-            <div>821</div>
+          <section id ="large">Website Visitors
+          <br></br>
+           821
+           <br></br>
+            <div></div>
           </section>
         )
     }
